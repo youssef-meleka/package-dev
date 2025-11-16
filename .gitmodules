@@ -1,0 +1,3 @@
+[submodule "packages-dev2/activity-logger"]
+	path = packages-dev2/activity-logger
+	url = https://github.com/youssef-meleka/activity-logger.git
